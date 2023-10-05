@@ -1,0 +1,12 @@
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\bin\Debug\net6.0\HttpHelper.deps.json
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\bin\Debug\net6.0\HttpHelper.dll
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\bin\Debug\net6.0\HttpHelper.pdb
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.csproj.AssemblyReference.cache
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.AssemblyInfoInputs.cache
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.AssemblyInfo.cs
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.csproj.CoreCompileInputs.cache
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.dll
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\refint\HttpHelper.dll
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\HttpHelper.pdb
+D:\MyWork\GitHub_\HLC.Common.NET\Common\HttpHelper\obj\Debug\net6.0\ref\HttpHelper.dll
